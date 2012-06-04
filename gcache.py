@@ -22,8 +22,8 @@ def main():
         os.mkdir('files')
     except:
         pass
-    counter = 195
-    pagenum = 18
+    counter = 0
+    pagenum = 0
     more = True
     while(more):
         pagenum += 1
