@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Original script found by: http://www.guyrutenberg.com/2008/10/02/retrieving-googles-cache-for-a-whole-website/
+# Original script by: http://www.guyrutenberg.com/2008/10/02/retrieving-googles-cache-for-a-whole-website/
 # Ported to Python 3.x by Luka Pušić <luka@pusic.si> http://360percents.com
 #
 import urllib.request
