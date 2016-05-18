@@ -4,7 +4,7 @@ gcache
 Google cache downloader in Python
 -----
 * Original script by: http://www.guyrutenberg.com/2008/10/02/retrieving-googles-cache-for-a-whole-website/
-* Ported to Python 3.x by Luka Pušić <luka@pusic.si> http://360percents.com
+* Ported to Python 3.x by Luka Pušić <luka@pusic.si>
 
 Usage:
 -----
